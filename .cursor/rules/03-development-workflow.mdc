@@ -8,6 +8,8 @@ alwaysApply: true
 
 ## Design-First Approach
 
+Before starting implementation, always review the feature request template at `.windsurf/07-feature-request-template.md` to ensure proper planning and documentation of new features.
+
 ### 1. Analyze Requirements
 - Identify core functionality needed
 - Determine required systems and components

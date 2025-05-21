@@ -8,6 +8,8 @@ alwaysApply: true
 
 ## Task Breakdown & Communication
 
+For all feature requests, first review and follow the template at `.windsurf/07-feature-request-template.md` to ensure comprehensive planning and documentation.
+
 ### 1. Task Analysis
 - **Understand Requirements**
   - Clarify ambiguous requirements before starting
